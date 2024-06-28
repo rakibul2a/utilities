@@ -1,0 +1,16 @@
+.box1{
+	width: 200px;
+	height: 200px;
+	background-color: #dddddd;
+}
+.box2{
+	background-color: #dddddd;
+	border: 2px solid ;
+}
+.mh-400{
+	min-height: 100px;
+}
+
+.b_img img{
+	margin-left: 20px;
+}
